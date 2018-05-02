@@ -1,0 +1,11 @@
+body{
+  color: white;
+  /* background-image: url('../img/bg_01.png'); */
+  background-size: 300px 500px;
+}
+
+.cla{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
